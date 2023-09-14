@@ -1,0 +1,15 @@
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\obj\Debug\net7.0\3_events.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\obj\Debug\net7.0\3_events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\obj\Debug\net7.0\3_events.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\obj\Debug\net7.0\3_events.AssemblyInfo.cs
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\obj\Debug\net7.0\3_events.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\bin\Debug\net7.0\3_events.exe
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\bin\Debug\net7.0\3_events.deps.json
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\bin\Debug\net7.0\3_events.runtimeconfig.json
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\bin\Debug\net7.0\3_events.dll
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\bin\Debug\net7.0\3_events.pdb
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\obj\Debug\net7.0\3_events.dll
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\obj\Debug\net7.0\refint\3_events.dll
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\obj\Debug\net7.0\3_events.pdb
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\obj\Debug\net7.0\3_events.genruntimeconfig.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\3_events\obj\Debug\net7.0\ref\3_events.dll
